@@ -1,0 +1,224 @@
+counterparty,ticker_or_contract,cusip,product_type,underlying,quantity,price_demo,notional_usd_est,currency,trade_date,expiry,strike,option_type,exchange,notes
+Bridgewater Associates,QQQ_20261026_P_498p94,,OPTION,QQQ,3396,60.54,205593.84,USD,2026-02-23,2026-10-26,498.94,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Bridgewater Associates,SPY_20260522_C_419p7,,OPTION,SPY,-3146,90.85,285814.1,USD,2026-02-23,2026-05-22,419.7,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Bridgewater Associates,SPY_20261106_C_541p19,,OPTION,SPY,3274,78.64,257467.36,USD,2026-02-23,2026-11-06,541.19,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Bridgewater Associates,RTY,,INDEX_FUTURE,RTY,38,4592.6,8725940.0,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Bridgewater Associates,TSLA,,EQUITY,TSLA,-973,626.68,609759.64,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Bridgewater Associates,WFC,,EQUITY,WFC,1892,363.64,688006.88,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Bridgewater Associates,SPY_20260424_P_575p85,,OPTION,SPY,-4244,124.35,527741.4,USD,2026-02-23,2026-04-24,575.85,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Bridgewater Associates,TLT_20261029_P_672p84,,OPTION,TLT,412,125.59,51743.08,USD,2026-02-23,2026-10-29,672.84,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Bridgewater Associates,AVGO,,EQUITY,AVGO,-1094,570.41,624028.54,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Bridgewater Associates,TLT_20260504_C_531p07,,OPTION,TLT,-1093,76.9,84051.7,USD,2026-02-23,2026-05-04,531.07,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Man Group,XLF_20261010_P_80p15,,OPTION,XLF,-1960,4.24,8310.4,USD,2026-02-23,2026-10-10,80.15,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Man Group,QQQ_20261009_P_413p2,,OPTION,QQQ,3604,24.5,88298.0,USD,2026-02-23,2026-10-09,413.2,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Man Group,TLT_20260815_P_587p07,,OPTION,TLT,2341,34.1,79828.1,USD,2026-02-23,2026-08-15,587.07,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Man Group,XLF_20260523_P_87p58,,OPTION,XLF,-2226,9.08,20212.08,USD,2026-02-23,2026-05-23,87.58,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Man Group,TLT_20260615_P_618p32,,OPTION,TLT,2620,57.77,151357.4,USD,2026-02-23,2026-06-15,618.32,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Man Group,XLF_20260616_P_73p97,,OPTION,XLF,1134,4.62,5239.08,USD,2026-02-23,2026-06-16,73.97,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Man Group,TLT_20260522_C_477p46,,OPTION,TLT,-1895,104.87,198728.65,USD,2026-02-23,2026-05-22,477.46,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Man Group,ZB,,RATES_FUTURE,ZB,356,126.7057,35600000.0,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Man Group,TLT_20261029_P_672p84,,OPTION,TLT,1753,125.59,220159.27,USD,2026-02-23,2026-10-29,672.84,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Man Group,TLT_20260727_C_594p16,,OPTION,TLT,-3399,36.05,122533.95,USD,2026-02-23,2026-07-27,594.16,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Man Group,QQQ_20260827_P_343p25,,OPTION,QQQ,-2711,107.28,290836.08,USD,2026-02-23,2026-08-27,343.25,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Man Group,SPY_20261105_C_424p73,,OPTION,SPY,3407,90.25,307481.75,USD,2026-02-23,2026-11-05,424.73,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Man Group,QQQ_20260823_C_500p87,,OPTION,QQQ,-1695,63.14,107022.3,USD,2026-02-23,2026-08-23,500.87,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Man Group,XLF_20260424_C_76p71,,OPTION,XLF,3191,3.15,10051.65,USD,2026-02-23,2026-04-24,76.71,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Man Group,XLF_20260619_P_66p95,,OPTION,XLF,-4717,9.12,43019.04,USD,2026-02-23,2026-06-19,66.95,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Elliott Investment Management,MSFT,,EQUITY,MSFT,-1452,37.01,53738.52,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Elliott Investment Management,IWM_20261110_P_242p14,,OPTION,IWM,1046,26.77,28001.42,USD,2026-02-23,2026-11-10,242.14,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Elliott Investment Management,QQQ_20260425_C_352p0,,OPTION,QQQ,3228,59.0,190452.0,USD,2026-02-23,2026-04-25,352.0,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Elliott Investment Management,IWM_20260615_P_232p11,,OPTION,IWM,-688,16.22,11159.36,USD,2026-02-23,2026-06-15,232.11,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Elliott Investment Management,TLT_20260528_C_520p99,,OPTION,TLT,-1112,79.23,88103.76,USD,2026-02-23,2026-05-28,520.99,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Elliott Investment Management,XLF_20260912_P_64p75,,OPTION,XLF,1489,13.72,20429.08,USD,2026-02-23,2026-09-12,64.75,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Elliott Investment Management,XLF_20260710_C_73p24,,OPTION,XLF,-2132,4.5,9594.0,USD,2026-02-23,2026-07-10,73.24,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Elliott Investment Management,SPY_20260529_C_489p24,,OPTION,SPY,2682,25.28,67800.96,USD,2026-02-23,2026-05-29,489.24,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Elliott Investment Management,XLF_20260619_P_66p95,,OPTION,XLF,-3725,9.12,33972.0,USD,2026-02-23,2026-06-19,66.95,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Elliott Investment Management,QQQ_20261118_C_351p7,,OPTION,QQQ,-2765,53.11,146849.15,USD,2026-02-23,2026-11-18,351.7,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Elliott Investment Management,TLT_20260810_C_650p95,,OPTION,TLT,-2280,50.41,114934.8,USD,2026-02-23,2026-08-10,650.95,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Elliott Investment Management,JPM,,EQUITY,JPM,2166,79.12,171373.92,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Elliott Investment Management,IWM_20260911_C_182p39,,OPTION,IWM,3853,50.42,194268.26,USD,2026-02-23,2026-09-11,182.39,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Elliott Investment Management,IWM_20260831_P_196p94,,OPTION,IWM,4419,32.65,144280.35,USD,2026-02-23,2026-08-31,196.94,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Millennium Management,SPY_20260522_C_419p7,,OPTION,SPY,4621,90.85,419817.85,USD,2026-02-23,2026-05-22,419.7,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Millennium Management,LLY,,EQUITY,LLY,-3909,420.7,1644516.3,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Millennium Management,BAC,,EQUITY,BAC,3121,168.67,526419.07,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Millennium Management,JPM,,EQUITY,JPM,1038,79.12,82126.56,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Millennium Management,SPY_20261105_C_424p73,,OPTION,SPY,2549,90.25,230047.25,USD,2026-02-23,2026-11-05,424.73,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Millennium Management,SPY_20261116_P_451p4,,OPTION,SPY,4741,31.52,149436.32,USD,2026-02-23,2026-11-16,451.4,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Millennium Management,META,,EQUITY,META,-2655,480.16,1274824.8,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Millennium Management,ZN,,RATES_FUTURE,ZN,204,120.9808,20400000.0,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Millennium Management,SPY_20260720_P_411p65,,OPTION,SPY,623,58.18,36246.14,USD,2026-02-23,2026-07-20,411.65,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Millennium Management,EFA,,ETF,EFA,-934,331.01,309163.34,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Millennium Management,TLT_20261029_P_672p84,,OPTION,TLT,4919,125.59,617777.21,USD,2026-02-23,2026-10-29,672.84,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Millennium Management,XLE,,ETF,XLE,4736,370.16,1753077.76,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Citadel,XLF_20261011_P_73p31,,OPTION,XLF,3767,6.11,23016.37,USD,2026-02-23,2026-10-11,73.31,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Citadel,TLT_20260615_P_618p32,,OPTION,TLT,3568,57.77,206123.36,USD,2026-02-23,2026-06-15,618.32,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Citadel,IWM_20260920_C_215p33,,OPTION,IWM,-4275,6.66,28471.5,USD,2026-02-23,2026-09-20,215.33,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Citadel,LLY,,EQUITY,LLY,-4508,420.7,1896515.6,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Citadel,XLF_20260523_P_87p58,,OPTION,XLF,-3809,9.08,34585.72,USD,2026-02-23,2026-05-23,87.58,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Citadel,IWM_20261102_C_247p67,,OPTION,IWM,-4854,30.48,147949.92,USD,2026-02-23,2026-11-02,247.67,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Citadel,AMZN,,EQUITY,AMZN,2740,171.78,470677.2,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Citadel,TLT_20260528_C_520p99,,OPTION,TLT,-710,79.23,56253.3,USD,2026-02-23,2026-05-28,520.99,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Citadel,XLF_20261120_C_85p09,,OPTION,XLF,3693,7.97,29433.21,USD,2026-02-23,2026-11-20,85.09,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Citadel,XLF,,ETF,XLF,-3906,76.1,297246.6,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Citadel,TLT_20260627_C_668p44,,OPTION,TLT,2756,65.78,181289.68,USD,2026-02-23,2026-06-27,668.44,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Citadel,IWM_20260708_C_192p81,,OPTION,IWM,-4050,30.12,121986.0,USD,2026-02-23,2026-07-08,192.81,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+The Children's Investment Fund Management (TCI),XLF_20260619_P_66p95,,OPTION,XLF,4233,9.12,38604.96,USD,2026-02-23,2026-06-19,66.95,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+The Children's Investment Fund Management (TCI),SPY_20260529_P_437p98,,OPTION,SPY,702,70.68,49617.36,USD,2026-02-23,2026-05-29,437.98,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+The Children's Investment Fund Management (TCI),IWM_20261110_P_242p14,,OPTION,IWM,-3330,26.77,89144.1,USD,2026-02-23,2026-11-10,242.14,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+The Children's Investment Fund Management (TCI),QQQ_20260827_P_343p25,,OPTION,QQQ,4549,107.28,488016.72,USD,2026-02-23,2026-08-27,343.25,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+The Children's Investment Fund Management (TCI),IWM_20261102_C_247p67,,OPTION,IWM,-3901,30.48,118902.48,USD,2026-02-23,2026-11-02,247.67,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+The Children's Investment Fund Management (TCI),QQQ_20260926_C_411p86,,OPTION,QQQ,3672,36.86,135349.92,USD,2026-02-23,2026-09-26,411.86,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+The Children's Investment Fund Management (TCI),QQQ_20260823_C_500p87,,OPTION,QQQ,-763,63.14,48175.82,USD,2026-02-23,2026-08-23,500.87,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+The Children's Investment Fund Management (TCI),XLF_20261113_C_83p28,,OPTION,XLF,-1816,7.27,13202.32,USD,2026-02-23,2026-11-13,83.28,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+The Children's Investment Fund Management (TCI),NVDA,,EQUITY,NVDA,-2093,207.02,433292.86,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+D. E. Shaw & Co.,TLT_20261029_P_672p84,,OPTION,TLT,1889,125.59,237239.51,USD,2026-02-23,2026-10-29,672.84,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+D. E. Shaw & Co.,XLF_20260815_P_81p45,,OPTION,XLF,-1578,9.05,14280.9,USD,2026-02-23,2026-08-15,81.45,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+D. E. Shaw & Co.,XLF_20261010_P_86p69,,OPTION,XLF,980,11.58,11348.4,USD,2026-02-23,2026-10-10,86.69,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+D. E. Shaw & Co.,IWM_20260825_P_192p46,,OPTION,IWM,1570,37.82,59377.4,USD,2026-02-23,2026-08-25,192.46,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+D. E. Shaw & Co.,TLT_20260602_C_522p8,,OPTION,TLT,-3967,76.21,302325.07,USD,2026-02-23,2026-06-02,522.8,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+D. E. Shaw & Co.,XLF_20260616_P_73p97,,OPTION,XLF,-4830,4.62,22314.6,USD,2026-02-23,2026-06-16,73.97,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+D. E. Shaw & Co.,IWM_20260611_C_220p5,,OPTION,IWM,824,10.51,8660.24,USD,2026-02-23,2026-06-11,220.5,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+D. E. Shaw & Co.,IWM_20261110_P_242p14,,OPTION,IWM,2427,26.77,64970.79,USD,2026-02-23,2026-11-10,242.14,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+D. E. Shaw & Co.,TLT_20260504_C_531p07,,OPTION,TLT,2957,76.9,227393.3,USD,2026-02-23,2026-05-04,531.07,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+D. E. Shaw & Co.,QQQ_20261118_C_351p7,,OPTION,QQQ,2477,53.11,131553.47,USD,2026-02-23,2026-11-18,351.7,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+D. E. Shaw & Co.,QQQ_20260704_C_453p64,,OPTION,QQQ,4376,41.23,180422.48,USD,2026-02-23,2026-07-04,453.64,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+D. E. Shaw & Co.,QQQ_20260709_C_482p99,,OPTION,QQQ,2248,45.83,103025.84,USD,2026-02-23,2026-07-09,482.99,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Two Sigma,XLF_20260815_P_81p45,,OPTION,XLF,-3846,9.05,34806.3,USD,2026-02-23,2026-08-15,81.45,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Two Sigma,QQQ_20260903_C_416p67,,OPTION,QQQ,-3609,18.4,66405.6,USD,2026-02-23,2026-09-03,416.67,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Two Sigma,EFA,,ETF,EFA,1610,331.01,532926.1,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Two Sigma,XLF_20261120_C_85p09,,OPTION,XLF,-2069,7.97,16489.93,USD,2026-02-23,2026-11-20,85.09,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Two Sigma,SHY,,ETF,SHY,1034,73.79,76298.86,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Two Sigma,AMZN,,EQUITY,AMZN,-3382,171.78,580959.96,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Two Sigma,QQQ_20261103_C_464p0,,OPTION,QQQ,607,56.48,34283.36,USD,2026-02-23,2026-11-03,464.0,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Goldman Sachs Asset Management,YM,,INDEX_FUTURE,YM,-98,5808.53,28461797.0,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Goldman Sachs Asset Management,QQQ_20260502_C_486p05,,OPTION,QQQ,-3627,66.65,241739.55,USD,2026-02-23,2026-05-02,486.05,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Goldman Sachs Asset Management,QQQ,,ETF,QQQ,-4921,424.92,2091031.32,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Goldman Sachs Asset Management,SPY_20261105_C_424p73,,OPTION,SPY,2502,90.25,225805.5,USD,2026-02-23,2026-11-05,424.73,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Goldman Sachs Asset Management,EEM,,ETF,EEM,912,488.13,445174.56,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Goldman Sachs Asset Management,XLF_20261113_C_83p28,,OPTION,XLF,-1729,7.27,12569.83,USD,2026-02-23,2026-11-13,83.28,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Goldman Sachs Asset Management,TLT_20260912_C_529p02,,OPTION,TLT,666,80.98,53932.68,USD,2026-02-23,2026-09-12,529.02,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Goldman Sachs Asset Management,SPY_20260522_C_419p7,,OPTION,SPY,1965,90.85,178520.25,USD,2026-02-23,2026-05-22,419.7,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Goldman Sachs Asset Management,XLF_20260424_C_76p71,,OPTION,XLF,4522,3.15,14244.3,USD,2026-02-23,2026-04-24,76.71,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Farallon Capital,AAPL,,EQUITY,AAPL,3819,454.81,1736919.39,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Farallon Capital,TLT_20260625_C_545p16,,OPTION,TLT,-1913,44.7,85511.1,USD,2026-02-23,2026-06-25,545.16,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Farallon Capital,TLT_20260727_C_594p16,,OPTION,TLT,4832,36.05,174193.6,USD,2026-02-23,2026-07-27,594.16,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Farallon Capital,TLT_20261114_P_646p68,,OPTION,TLT,3483,49.71,173139.93,USD,2026-02-23,2026-11-14,646.68,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Farallon Capital,QQQ_20260903_C_416p67,,OPTION,QQQ,4462,18.4,82100.8,USD,2026-02-23,2026-09-03,416.67,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Farallon Capital,GS,,EQUITY,GS,-1320,306.91,405121.2,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Farallon Capital,SPY_20260821_C_493p06,,OPTION,SPY,1166,27.51,32076.66,USD,2026-02-23,2026-08-21,493.06,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Farallon Capital,QQQ_20260804_P_509p08,,OPTION,QQQ,489,80.15,39193.35,USD,2026-02-23,2026-08-04,509.08,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Farallon Capital,QQQ_20261103_C_464p0,,OPTION,QQQ,-2520,56.48,142329.6,USD,2026-02-23,2026-11-03,464.0,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Renaissance Technologies,EWJ,,ETF,EWJ,311,443.24,137847.64,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Renaissance Technologies,TLT_20261101_C_495p7,,OPTION,TLT,1876,111.85,209830.6,USD,2026-02-23,2026-11-01,495.7,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Renaissance Technologies,QQQ_20260502_C_486p05,,OPTION,QQQ,2208,66.65,147163.2,USD,2026-02-23,2026-05-02,486.05,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Renaissance Technologies,IWM_20260831_P_196p94,,OPTION,IWM,-1436,32.65,46885.4,USD,2026-02-23,2026-08-31,196.94,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Renaissance Technologies,QQQ_20261118_C_351p7,,OPTION,QQQ,-4252,53.11,225823.72,USD,2026-02-23,2026-11-18,351.7,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Renaissance Technologies,XLF_20260901_P_73p05,,OPTION,XLF,2279,7.41,16887.39,USD,2026-02-23,2026-09-01,73.05,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Renaissance Technologies,XLF_20260730_C_81p5,,OPTION,XLF,-4796,8.04,38559.84,USD,2026-02-23,2026-07-30,81.5,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Renaissance Technologies,XLF_20261009_P_66p76,,OPTION,XLF,4029,8.65,34850.85,USD,2026-02-23,2026-10-09,66.76,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Renaissance Technologies,TLT_20261107_P_490p24,,OPTION,TLT,-3851,66.33,255436.83,USD,2026-02-23,2026-11-07,490.24,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Renaissance Technologies,SPY,,ETF,SPY,-3445,487.38,1679024.1,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Renaissance Technologies,BAC,,EQUITY,BAC,2730,168.67,460469.1,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Renaissance Technologies,TLT_20260627_C_668p44,,OPTION,TLT,-1318,65.78,86698.04,USD,2026-02-23,2026-06-27,668.44,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Renaissance Technologies,QQQ_20261027_C_349p14,,OPTION,QQQ,-3373,50.34,169796.82,USD,2026-02-23,2026-10-27,349.14,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Renaissance Technologies,QQQ_20260709_C_482p99,,OPTION,QQQ,-2362,45.83,108250.46,USD,2026-02-23,2026-07-09,482.99,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+AQR Capital Management,MS,,EQUITY,MS,-4347,40.26,175010.22,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+AQR Capital Management,TLT_20260504_C_531p07,,OPTION,TLT,-4084,76.9,314059.6,USD,2026-02-23,2026-05-04,531.07,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+AQR Capital Management,IWM,,ETF,IWM,522,217.35,113456.7,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+AQR Capital Management,QQQ_20260823_C_477p18,,OPTION,QQQ,2188,39.72,86907.36,USD,2026-02-23,2026-08-23,477.18,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+AQR Capital Management,QQQ_20260709_C_482p99,,OPTION,QQQ,-2360,45.83,108158.8,USD,2026-02-23,2026-07-09,482.99,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+AQR Capital Management,QQQ_20261027_C_349p14,,OPTION,QQQ,3971,50.34,199900.14,USD,2026-02-23,2026-10-27,349.14,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+AQR Capital Management,XLE,,ETF,XLE,336,370.16,124373.76,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+AQR Capital Management,IWM_20260831_P_196p94,,OPTION,IWM,-1298,32.65,42379.7,USD,2026-02-23,2026-08-31,196.94,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+AQR Capital Management,XLF_20261111_C_70p43,,OPTION,XLF,4513,6.88,31049.44,USD,2026-02-23,2026-11-11,70.43,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+AQR Capital Management,AAPL,,EQUITY,AAPL,-4624,454.81,2103041.44,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+AQR Capital Management,XLF_20260730_C_81p5,,OPTION,XLF,764,8.04,6142.56,USD,2026-02-23,2026-07-30,81.5,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+AQR Capital Management,TLT_20260914_P_663p56,,OPTION,TLT,-930,129.23,120183.9,USD,2026-02-23,2026-09-14,663.56,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+AQR Capital Management,TLT_20260910_C_622p01,,OPTION,TLT,963,68.59,66052.17,USD,2026-02-23,2026-09-10,622.01,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+AQR Capital Management,CVX,,EQUITY,CVX,-4182,155.21,649088.22,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+AQR Capital Management,SPY_20260625_P_421p76,,OPTION,SPY,-4169,58.74,244887.06,USD,2026-02-23,2026-06-25,421.76,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Davidson Kempner Capital Management,TLT_20261020_C_485p01,,OPTION,TLT,-2785,122.44,340995.4,USD,2026-02-23,2026-10-20,485.01,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Davidson Kempner Capital Management,TLT_20261114_P_646p68,,OPTION,TLT,-22,49.71,1093.62,USD,2026-02-23,2026-11-14,646.68,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Davidson Kempner Capital Management,SPY_20260424_P_575p85,,OPTION,SPY,-2446,124.35,304160.1,USD,2026-02-23,2026-04-24,575.85,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Davidson Kempner Capital Management,TLT_20260504_C_531p07,,OPTION,TLT,-1218,76.9,93664.2,USD,2026-02-23,2026-05-04,531.07,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Davidson Kempner Capital Management,XLF_20260815_P_81p45,,OPTION,XLF,-4413,9.05,39937.65,USD,2026-02-23,2026-08-15,81.45,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Davidson Kempner Capital Management,RTY,,INDEX_FUTURE,RTY,-89,4592.6,20437070.0,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Davidson Kempner Capital Management,IWM_20260809_P_231p03,,OPTION,IWM,-4522,26.47,119697.34,USD,2026-02-23,2026-08-09,231.03,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Davidson Kempner Capital Management,SPY_20260625_P_421p76,,OPTION,SPY,-3731,58.74,219158.94,USD,2026-02-23,2026-06-25,421.76,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Davidson Kempner Capital Management,XLF_20260630_P_62p04,,OPTION,XLF,1546,12.53,19371.38,USD,2026-02-23,2026-06-30,62.04,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Davidson Kempner Capital Management,SLV,,ETF,SLV,-4784,239.55,1146007.2,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Davidson Kempner Capital Management,LLY,,EQUITY,LLY,-2013,420.7,846869.1,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Davidson Kempner Capital Management,QQQ_20260823_C_500p87,,OPTION,QQQ,-358,63.14,22604.12,USD,2026-02-23,2026-08-23,500.87,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Davidson Kempner Capital Management,TLT_20260912_C_529p02,,OPTION,TLT,-3875,80.98,313797.5,USD,2026-02-23,2026-09-12,529.02,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Point72 Asset Management,YM,,INDEX_FUTURE,YM,168,5808.53,48791652.0,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Point72 Asset Management,XLF_20261009_P_66p76,,OPTION,XLF,-613,8.65,5302.45,USD,2026-02-23,2026-10-09,66.76,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Point72 Asset Management,MS,,EQUITY,MS,-2271,40.26,91430.46,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Point72 Asset Management,EFA,,ETF,EFA,3356,331.01,1110869.56,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Point72 Asset Management,XLF_20260901_P_73p05,,OPTION,XLF,-2692,7.41,19947.72,USD,2026-02-23,2026-09-01,73.05,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Point72 Asset Management,IWM_20260611_C_220p5,,OPTION,IWM,-2595,10.51,27273.45,USD,2026-02-23,2026-06-11,220.5,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Point72 Asset Management,IEF,,ETF,IEF,4532,215.22,975377.04,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Point72 Asset Management,TLT_20261107_P_490p24,,OPTION,TLT,561,66.33,37211.13,USD,2026-02-23,2026-11-07,490.24,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Point72 Asset Management,XLF_20260511_P_89p76,,OPTION,XLF,2355,15.35,36149.25,USD,2026-02-23,2026-05-11,89.76,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Point72 Asset Management,TLT_20260504_C_531p07,,OPTION,TLT,-741,76.9,56982.9,USD,2026-02-23,2026-05-04,531.07,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Point72 Asset Management,AMZN,,EQUITY,AMZN,906,171.78,155632.68,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Point72 Asset Management,NQ,,INDEX_FUTURE,NQ,114,5647.02,32188014.0,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Point72 Asset Management,TLT_20260625_C_545p16,,OPTION,TLT,2454,44.7,109693.8,USD,2026-02-23,2026-06-25,545.16,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Marshall Wace,QQQ_20261027_C_397p61,,OPTION,QQQ,-2001,31.03,62091.03,USD,2026-02-23,2026-10-27,397.61,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Marshall Wace,KO,,EQUITY,KO,4736,461.92,2187653.12,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Marshall Wace,QQQ_20260719_C_343p51,,OPTION,QQQ,1393,87.94,122500.42,USD,2026-02-23,2026-07-19,343.51,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Marshall Wace,IWM_20261028_P_260p42,,OPTION,IWM,-647,31.23,20205.81,USD,2026-02-23,2026-10-28,260.42,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Marshall Wace,IWM_20260901_C_180p84,,OPTION,IWM,-1973,24.82,48969.86,USD,2026-02-23,2026-09-01,180.84,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Marshall Wace,TLT_20260627_C_668p44,,OPTION,TLT,4778,65.78,314296.84,USD,2026-02-23,2026-06-27,668.44,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Marshall Wace,RTY,,INDEX_FUTURE,RTY,-60,4592.6,13777800.0,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Brevan Howard,TLT_20260616_C_617p07,,OPTION,TLT,-3476,49.9,173452.4,USD,2026-02-23,2026-06-16,617.07,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Brevan Howard,QQQ_20261105_C_367p39,,OPTION,QQQ,-3743,68.01,254561.43,USD,2026-02-23,2026-11-05,367.39,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Brevan Howard,NVDA,,EQUITY,NVDA,-1731,207.02,358351.62,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Brevan Howard,TLT_20261101_C_495p7,,OPTION,TLT,3959,111.85,442814.15,USD,2026-02-23,2026-11-01,495.7,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Brevan Howard,QQQ_20260804_P_509p08,,OPTION,QQQ,-1944,80.15,155811.6,USD,2026-02-23,2026-08-04,509.08,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Brevan Howard,XLF_20260710_C_73p24,,OPTION,XLF,-4686,4.5,21087.0,USD,2026-02-23,2026-07-10,73.24,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Brevan Howard,ZB,,RATES_FUTURE,ZB,-295,126.7057,29500000.0,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Brevan Howard,AVGO,,EQUITY,AVGO,2518,570.41,1436292.38,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Brevan Howard,TLT_20260815_P_587p07,,OPTION,TLT,-3243,34.1,110586.3,USD,2026-02-23,2026-08-15,587.07,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Brevan Howard,IWM_20260825_P_192p46,,OPTION,IWM,67,37.82,2533.94,USD,2026-02-23,2026-08-25,192.46,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Brevan Howard,QQQ_20260425_C_352p0,,OPTION,QQQ,-4968,59.0,293112.0,USD,2026-02-23,2026-04-25,352.0,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Wellington Management,SPY_20260810_P_506p18,,OPTION,SPY,-4748,31.26,148422.48,USD,2026-02-23,2026-08-10,506.18,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Wellington Management,IWM_20261110_P_242p14,,OPTION,IWM,1077,26.77,28831.29,USD,2026-02-23,2026-11-10,242.14,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Wellington Management,SPY_20260529_C_489p24,,OPTION,SPY,-2418,25.28,61127.04,USD,2026-02-23,2026-05-29,489.24,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Wellington Management,SPY_20260625_P_421p76,,OPTION,SPY,3404,58.74,199950.96,USD,2026-02-23,2026-06-25,421.76,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Wellington Management,QQQ_20260709_C_482p99,,OPTION,QQQ,1645,45.83,75390.35,USD,2026-02-23,2026-07-09,482.99,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Wellington Management,ES,,INDEX_FUTURE,ES,-139,4260.2,29608390.0,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Wellington Management,TLT,,ETF,TLT,-4448,575.18,2558400.64,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Wellington Management,BAC,,EQUITY,BAC,-1447,168.67,244065.49,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Wellington Management,QQQ_20261026_P_498p94,,OPTION,QQQ,-3948,60.54,239011.92,USD,2026-02-23,2026-10-26,498.94,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Wellington Management,TLT_20261107_P_490p24,,OPTION,TLT,2775,66.33,184065.75,USD,2026-02-23,2026-11-07,490.24,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Wellington Management,GS,,EQUITY,GS,3936,306.91,1207997.76,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+PIMCO,SPY_20260522_C_419p7,,OPTION,SPY,-3726,90.85,338507.1,USD,2026-02-23,2026-05-22,419.7,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+PIMCO,IWM_20261102_C_255p23,,OPTION,IWM,-2148,37.7,80979.6,USD,2026-02-23,2026-11-02,255.23,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+PIMCO,XLF_20261113_C_83p28,,OPTION,XLF,3044,7.27,22129.88,USD,2026-02-23,2026-11-13,83.28,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+PIMCO,IWM_20260909_P_179p18,,OPTION,IWM,-1916,25.33,48532.28,USD,2026-02-23,2026-09-09,179.18,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+PIMCO,DIA,,ETF,DIA,-305,110.18,33604.9,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+PIMCO,AMZN,,EQUITY,AMZN,1913,171.78,328615.14,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+PIMCO,QQQ_20261116_C_392p2,,OPTION,QQQ,-3804,34.22,130172.88,USD,2026-02-23,2026-11-16,392.2,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+PIMCO,XLF_20260912_P_64p75,,OPTION,XLF,3345,13.72,45893.4,USD,2026-02-23,2026-09-12,64.75,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+PIMCO,EWJ,,ETF,EWJ,1245,443.24,551833.8,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Ruffer,QQQ_20260502_C_486p05,,OPTION,QQQ,-3184,66.65,212213.6,USD,2026-02-23,2026-05-02,486.05,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Ruffer,XLF_20261009_P_66p76,,OPTION,XLF,-3040,8.65,26296.0,USD,2026-02-23,2026-10-09,66.76,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Ruffer,XLE,,ETF,XLE,4911,370.16,1817855.76,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Ruffer,TLT,,ETF,TLT,3498,575.18,2011979.64,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Ruffer,SPY_20260523_P_522p8,,OPTION,SPY,-4009,58.11,232962.99,USD,2026-02-23,2026-05-23,522.8,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Ruffer,XLF_20260912_P_64p75,,OPTION,XLF,2292,13.72,31446.24,USD,2026-02-23,2026-09-12,64.75,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Ruffer,SLV,,ETF,SLV,3135,239.55,750989.25,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Anchorage Capital Group,TLT_20260815_P_587p07,,OPTION,TLT,1738,34.1,59265.8,USD,2026-02-23,2026-08-15,587.07,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Anchorage Capital Group,SPY_20260523_P_522p8,,OPTION,SPY,-415,58.11,24115.65,USD,2026-02-23,2026-05-23,522.8,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Anchorage Capital Group,IWM_20260708_C_192p81,,OPTION,IWM,1996,30.12,60119.52,USD,2026-02-23,2026-07-08,192.81,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Anchorage Capital Group,IEF,,ETF,IEF,4725,215.22,1016914.5,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Anchorage Capital Group,IWM_20260920_C_215p33,,OPTION,IWM,563,6.66,3749.58,USD,2026-02-23,2026-09-20,215.33,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Anchorage Capital Group,XLF_20260710_C_73p24,,OPTION,XLF,4804,4.5,21618.0,USD,2026-02-23,2026-07-10,73.24,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Anchorage Capital Group,IWM_20261028_P_260p42,,OPTION,IWM,-1909,31.23,59618.07,USD,2026-02-23,2026-10-28,260.42,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Anchorage Capital Group,PEP,,EQUITY,PEP,1308,390.56,510852.48,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Anchorage Capital Group,IWM_20261102_C_255p23,,OPTION,IWM,2272,37.7,85654.4,USD,2026-02-23,2026-11-02,255.23,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Anchorage Capital Group,QQQ_20260823_C_500p87,,OPTION,QQQ,-1065,63.14,67244.1,USD,2026-02-23,2026-08-23,500.87,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Anchorage Capital Group,SPY_20260625_P_421p76,,OPTION,SPY,1430,58.74,83998.2,USD,2026-02-23,2026-06-25,421.76,PUT,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Anchorage Capital Group,EWJ,,ETF,EWJ,311,443.24,137847.64,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Anchorage Capital Group,TLT_20260504_C_531p07,,OPTION,TLT,-122,76.9,9381.8,USD,2026-02-23,2026-05-04,531.07,CALL,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.
+Anchorage Capital Group,DIA,,ETF,DIA,-2049,110.18,225758.82,USD,2026-02-23,,,,CBOE/NYSEARCA/CME (synthetic),Synthetic demo portfolio; not real positions or prices.

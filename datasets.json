@@ -1,0 +1,13 @@
+{
+  "datasets": {
+    "v1": {
+      "path": "data/v1",
+      "description": "Initial dataset"
+    },
+    "v2": {
+      "path": "data/v2",
+      "description": "Second version with updates"
+    }
+  },
+  "active_version": "v1"
+}
